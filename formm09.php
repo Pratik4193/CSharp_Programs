@@ -1,4 +1,4 @@
-<?php 
+<?php php version 8.0
 error_reporting(0);
 include_once('joomlasession.php');
   require('config/config.php');
